@@ -1,0 +1,1 @@
+import{o as n,a as s,m as c,h as r,e as i,x as u}from"./index-CBgzHAbU.js";const m={__name:"Discord",setup(_){const t=r();return n(async()=>{const{code:e,state:o}=t.query;!e||!o||await u.apiGetDiscordCallback(e,o)}),(e,o)=>{const a=i("Loading");return s(),c(a,{active:!0,"z-index":1060})}}};export{m as default};
